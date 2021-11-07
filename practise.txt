@@ -1,0 +1,7 @@
+to merge all commit into one single commit use 
+1 st option can use reset command sto all will be unstaged and then  put one git git coomit for all
+2 squash and pick 
+squash - merge into previously commit of pick 
+enter into rebase by git -i rebase #id 
+then esc : x 
+this is another line
