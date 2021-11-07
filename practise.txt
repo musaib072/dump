@@ -3,5 +3,6 @@ to merge all commit into one single commit use
 2 squash and pick 
 squash - merge into previously commit of pick 
 enter into rebase by git -i rebase #id 
-then esc : x 
-this is another line
+then esc : x
+when you write a content in a file then saveit first using ctrl +s then put command git add 
+otherwise it will not show any modification
